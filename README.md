@@ -1,5 +1,14 @@
-### Hi there 👋
+### Yo 👋
+I'm Lan, learning the github ways because wow when I got into github firsthand, it's quite compllicated for me. But Luckily, I'm in Global Github Campus right now so I hope I have fun learning :)
 
+- 🔭 I’m currently working on github hehe!
+- 🌱 I’m currently learning github!
+- 👯 I’m looking to collaborate on learning!
+- 🤔 I’m looking for help with AI development
+- 💬 Ask me about Rhythm Games 
+- 📫 How to reach me: Idk right now
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I have 2 dogs!
 <!--
 **Lan76-learning/Lan76-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
